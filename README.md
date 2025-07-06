@@ -48,8 +48,8 @@ The program is also able to save the last setting as default for use next time.
 display status explanations:
 -"connected/disconnected" indicates whether the display is physically connected through the port to the computer
 -"active/unactive" indicates whether the display is displaying an image or not.
-
+-"primary" indicates that this is the primary display in the system.
 
 The program is written in C. in June 2025.
 any improvements and suggestions are welcome.Enjoy your use)
--"primary" indicates that this is the primary display in the system.
+
