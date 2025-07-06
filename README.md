@@ -1,5 +1,6 @@
 The program works on linux in x11 environment.originally written for Ubuntu with i3 window manager and i3blocks statusbar installed on it.You will also need to install xrandr. in this configuration everything works fine. with other configurations there should be no problems. in any case I will be glad to get feedback. 
-now to the description:
+
+now to the DESCRIPTION:
 This utility works in the terminal. It parses the output of the xrandr command 
 and, based on the data obtained, gives you a list of available monitors in your system. Then you simply follow the instructions given by the software to connect or disconnect an additional display to your system. The number of displays is limited by the capabilities of your machine.
 
